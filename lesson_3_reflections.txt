@@ -41,12 +41,13 @@ and what would be harder?
 
     
 
-
-
-
-
-
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    CHANGES IN THE MASTER BRANCH are easy and we don't have to merge the branch... for easy steps is that way ok... but if you going to imply new feature make it sense open a seperate branch
+
+    this approach ist the better one to keep your master branch running
+
+
+
+
